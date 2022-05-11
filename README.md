@@ -18,7 +18,7 @@ git branch nome_da_branch –> cria uma nova branch
 git checkout nome_da_branch–> troca para branch sinalizada
 git checkout –b nome_da_branch ->cria uma nova branch e troca para branch sinalizada
 git branch –d nome_da_branch ->remove a branch selecionada
-git merge nome_da_branch ->unifica a branch que o usuário está no momento e a branch sinalizada.
+git merge nome_da_branch ->unifica a branch que o usuário está no momento e a branch sinalizada
 git clone chave_ssh -> copia o repositório do github para a maquina do usuário
 git stash -> arquiva (ou faz o stash) de alterações que você fez na cópia de trabalho durante um determinado período, para que você possa trabalhar em outra coisa, depois voltar e fazer a reaplicação mais tarde.
 git push -> enviar o conteúdo do repositório local para um repositório remoto
